@@ -1,0 +1,37 @@
+Detailed Summary of ADME Studies: 
+
+1. Paracetamol
+physiochemical: {'formula': 'C8H9NO2', 'molecular_weight': 151.165, 'num_heavy_atoms': 11, 'num_aromatic_atoms': 6, 'sp3_carbon_ratio': 0.125, 'num_rotatable_bonds': 1, 'num_h_donors': 2, 'num_h_acceptors': 2, 'molar_refractivity': 42.41050000000002, 'tpsa': 49.33, 'num_atoms': 11} 
+solubility: {'log_s_esol': -1.969329654609116, 'solubility_esol': 0.010731745016340192, 'class_esol': 'Very Soluble'} 
+lipophilicity: {'wlogp': 1.3505999999999998} 
+pharmacokinetics: {'gastrointestinal_absorption': 'High', 'blood_brain_barrier_permeant': True, 'skin_permeability_logkp': -6.2631805} 
+druglikeness: {'lipinski': 'Pass', 'ghose': {'MW': 'MW: 151.16500000000008 is outside the acceptable range (180-480)'}, 'veber': 'Pass'} 
+medicinal: {'pains': False, 'brenk': True, 'zinc': False, 'leadlikeness': {'MW': 'MW: 151.165 is outside the acceptable range (250-350)'}, 'synthetic_accessibility': 1.4072987978356917} 
+
+2. Benzene
+physiochemical: {'formula': 'C6H6', 'molecular_weight': 78.11399999999999, 'num_heavy_atoms': 6, 'num_aromatic_atoms': 6, 'sp3_carbon_ratio': 0.0, 'num_rotatable_bonds': 0, 'num_h_donors': 0, 'num_h_acceptors': 0, 'molar_refractivity': 26.441999999999993, 'tpsa': 0.0, 'num_atoms': 6} 
+solubility: {'log_s_esol': -1.9325820262791382, 'solubility_esol': 0.01167933118594848, 'class_esol': 'Very Soluble'} 
+lipophilicity: {'wlogp': 1.6866} 
+pharmacokinetics: {'gastrointestinal_absorption': 'Low', 'blood_brain_barrier_permeant': False, 'skin_permeability_logkp': -5.5790093999999995} 
+druglikeness: {'lipinski': 'Pass', 'ghose': {'MW': 'MW: 78.11399999999996 is outside the acceptable range (180-480)', 'MR': 'MR: 26.441999999999993 is outside the acceptable range (40-480)', 'num_atoms': 'Number of atoms: 12 is outside the acceptable range (20-70)'}, 'veber': 'Pass'} 
+medicinal: {'pains': False, 'brenk': False, 'zinc': False, 'leadlikeness': {'MW': 'MW: 78.11399999999999 is outside the acceptable range (250-350)'}, 'synthetic_accessibility': 1.0} 
+
+3. Toluene
+physiochemical: {'formula': 'C7H8', 'molecular_weight': 92.14099999999999, 'num_heavy_atoms': 7, 'num_aromatic_atoms': 6, 'sp3_carbon_ratio': 0.14285714285714285, 'num_rotatable_bonds': 0, 'num_h_donors': 0, 'num_h_acceptors': 0, 'molar_refractivity': 31.17899999999999, 'tpsa': 0.0, 'num_atoms': 7} 
+solubility: {'log_s_esol': -2.1932094391812655, 'solubility_esol': 0.006409004268314887, 'class_esol': 'Soluble'} 
+lipophilicity: {'wlogp': 1.99502} 
+pharmacokinetics: {'gastrointestinal_absorption': 'Low', 'blood_brain_barrier_permeant': False, 'skin_permeability_logkp': -5.4455959} 
+druglikeness: {'lipinski': 'Pass', 'ghose': {'MW': 'MW: 92.14099999999995 is outside the acceptable range (180-480)', 'MR': 'MR: 31.17899999999999 is outside the acceptable range (40-480)', 'num_atoms': 'Number of atoms: 15 is outside the acceptable range (20-70)'}, 'veber': 'Pass'} 
+medicinal: {'pains': False, 'brenk': False, 'zinc': False, 'leadlikeness': {'MW': 'MW: 92.14099999999999 is outside the acceptable range (250-350)'}, 'synthetic_accessibility': 1.0} 
+
+4. blah
+NOT FOUND! 
+
+5. Daphnin
+physiochemical: {'formula': 'C15H16O9', 'molecular_weight': 340.28400000000005, 'num_heavy_atoms': 24, 'num_aromatic_atoms': 10, 'sp3_carbon_ratio': 0.4, 'num_rotatable_bonds': 3, 'num_h_donors': 5, 'num_h_acceptors': 9, 'molar_refractivity': 78.54400000000001, 'tpsa': 149.82, 'num_atoms': 24} 
+solubility: {'log_s_esol': -1.1756252333920831, 'solubility_esol': 0.0667382426456562, 'class_esol': 'Very Soluble'} 
+lipophilicity: {'wlogp': -1.3226999999999995} 
+pharmacokinetics: {'gastrointestinal_absorption': 'Low', 'blood_brain_barrier_permeant': False, 'skin_permeability_logkp': -9.3148494} 
+druglikeness: {'lipinski': 'Pass', 'ghose': {'LogP': 'LogP (-1.3226999999999995) is outside the acceptable range (-0.4 to +5.6)'}, 'veber': {'TPSA': 'TPSA: 149.82 > 140 angstrom-squared'}} 
+medicinal: {'pains': False, 'brenk': True, 'zinc': False, 'leadlikeness': 'Yes', 'synthetic_accessibility': 3.81904292689884} 
+
